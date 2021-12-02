@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class FantaTrail extends AppCompatActivity{
     @Override
-    protected void onCreate(@Nullable Bundle savedInstanceState) {
+    protected void onCreate(@Nullable Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
     }
 }
